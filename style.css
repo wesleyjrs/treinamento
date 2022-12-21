@@ -5,3 +5,8 @@ h1 {
 h2 {
     color: green;
 }
+
+section {
+    font-size: 1rem;
+    color: #0000ff;
+}
